@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(77, 100, 92);
+    
+}
+
+.feedback{
+    text-align: center;
+}
+
+input,.legend,.submit{margin-left: 550px;}
